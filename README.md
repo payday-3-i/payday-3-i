@@ -38,4 +38,3 @@ To use the hack, follow these steps:
 
 4. Select the dll file from your injector and inject it into the game.
 
-Note: Please be aware that using cheats may compromise your gaming experience and potentially harm your account.
